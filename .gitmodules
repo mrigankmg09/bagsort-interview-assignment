@@ -1,0 +1,6 @@
+[submodule "bagsort-interview-assignment-backend"]
+	path = bagsort-interview-assignment-backend
+	url = https://github.com/mrigankmg09/bagsort-interview-assignment-backend.git
+[submodule "bagsort-interview-assignment-frontend"]
+	path = bagsort-interview-assignment-frontend
+	url = https://github.com/mrigankmg09/bagsort-interview-assignment-frontend.git
