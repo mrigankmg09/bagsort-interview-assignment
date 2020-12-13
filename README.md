@@ -1,4 +1,4 @@
-# bagsort-interview-assignment
+# Bagsort Interview Assignment
 
 ### Steps to run the webpage:
 1.   Clone this repo
